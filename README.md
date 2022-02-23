@@ -1,5 +1,5 @@
 # Hola-mundo
-Mi primer repositorio c:
+Mi primer repositorio
 
 María Guadalupe Castro Pérez
 23/02/22
